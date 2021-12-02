@@ -10,6 +10,11 @@ public class Test {
 	      // 혹시 충돌을 경험해보면 싶으시다면 작성해보세요!
 	      //	asdfasdf
 		System.out.println("First Code");
+		System.out.println("First Code");
+		System.out.println("First Code");
+		System.out.println("First Code");
+		System.out.println("First Code");
+		System.out.println("First Code");
 		
 	}
 
